@@ -1,6 +1,6 @@
 name: Groupfundus
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.81472
 typography_spectrum: 1
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 1
+  brandStrength: 0.5
   lightness: 0.5
   saturation: 0.25
   rhythmicContrast: 0.5
