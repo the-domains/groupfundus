@@ -1,7 +1,7 @@
 name: Groupfundus
 favicon: null
-layout_spectrum: 0.30667195469141006
-typography_spectrum: 0.4096930753439665
+layout_spectrum: 1
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.6729628832545131
-  lightness: 0.5521901068277657
-  saturation: 0.08174179098568857
-  rhythmicContrast: 0.9481624695472419
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 1
+  lightness: 0.5
+  saturation: 0.25
+  rhythmicContrast: 0.5
 purpose: []
